@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Albums</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <nav>
+        <div class="home">
+          <i class="fa-solid fa-house"></i>
+          <span>Home</span>
+        </div>
+        <div class="backgound--color">
+          <i class="fa-solid fa-lightbulb"></i>
+        </div>
+      </nav>
+      <div>
+        <h2 class="album_title">Danh Sách Ảnh</h2>
+        <ul id="list-albums" class="list_album"></ul>
+      </div>
+
+      <div class="create_img">
+        <button class="insert-btn">+</button>
+        <div class="create_img_form">
+          <div>
+            <span>Url :</span>
+            <input placeholder="Input Url There" type="text" name="url" />
+          </div>
+
+          <div>
+            <span>Name : </span>
+            <input placeholder="Input Name There" type="text" name="name" />
+          </div>
+
+          <div>
+            <button class="save-btn" id="save-btn">save</button>
+          </div>
+        </div>
+        <button class="back-btn">Back</button>
+      </div>
+
+      <div class="form_edit overlay">
+        <div class="edit_img">
+          <div>
+            <span>New Url :</span>
+            <input placeholder="Input New Url" type="text" name="newUrl" />
+          </div>
+
+          <div>
+            <span>Remame : </span>
+            <input placeholder="Input New Name" type="text" name="rename" />
+          </div>
+
+          <div class="edit-btn-wrap">
+            <button class="save-btn" id="save-edit">save</button>
+            <button class="backEdit-btn">Back</button>
+          </div>
+        </div>
+      </div>
+      <div class="overlay" id="overlay">
+        <div class="form error">
+          <div class="form_icon"></div>
+          <div class="form_message"></div>
+
+          <div class="exit-btn" id="exit-btn">
+            <i class="fa-solid fa-xmark"></i>
+          </div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader_icon"></div>
+      </div>
+    </div>
+    <script src="./main.js"></script>
+  </body>
+</html>

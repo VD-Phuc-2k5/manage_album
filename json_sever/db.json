@@ -1,0 +1,294 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "reprehenderit est deserunt velit ipsam",
+      "url": "https://antimatter.vn/wp-content/uploads/2022/05/background-dep-co-don-800x450.jpg"
+    },
+    {
+      "id": 2,
+      "title": "officia porro iure quia iusto qui ipsa ut modi",
+      "url": "https://antimatter.vn/wp-content/uploads/2022/05/background-dep-canh-hoang-hon-800x450.jpg"
+    },
+    {
+      "id": 3,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://antimatter.vn/wp-content/uploads/2022/05/background-dep-yen-binh-800x450.jpg"
+    },
+    {
+      "id": 4,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://antimatter.vn/wp-content/uploads/2022/05/background-dep-mau-pastel-de-thuong-800x457.png"
+    },
+    {
+      "id": 5,
+      "title": "night",
+      "url": "https://demoda.vn/wp-content/uploads/2022/01/background-dep-ngau-800x481.jpg"
+    },
+    {
+      "id": 6,
+      "title": "city",
+      "url": "https://demoda.vn/wp-content/uploads/2022/01/cac-mau-background-dep-anime-800x450.jpg"
+    },
+    {
+      "title": "light",
+      "url": "https://demoda.vn/wp-content/uploads/2022/02/background-chat-cuc-dep-3d-mau-nen-xanh-800x450.jpg",
+      "id": 7
+    },
+    {
+      "title": "background",
+      "url": "https://antimatter.vn/wp-content/uploads/2022/05/background-dep-khoi-tron-800x450.jpg",
+      "id": 8
+    },
+    {
+      "title": "Hotel",
+      "url": "https://treobangron.com.vn/wp-content/uploads/2022/09/background-dep-5-2.jpg",
+      "id": 9
+    },
+    {
+      "title": "forest",
+      "url": "https://treobangron.com.vn/wp-content/uploads/2022/09/background-dep-3-2.jpg",
+      "id": 10
+    },
+    {
+      "title": "people",
+      "url": "https://treobangron.com.vn/wp-content/uploads/2022/09/background-dep-2-3.jpg",
+      "id": 11
+    },
+    {
+      "title": "ACCUSAMUS BEATAE AD FACILIS CUM SIMILIQUE QUI SUNT",
+      "url": "https://antimatter.vn/wp-content/uploads/2022/05/background-dep-1-1200x676.jpg",
+      "id": 12
+    },
+    {
+      "title": "img1",
+      "url": "https://anhcuoiviet.vn/wp-content/uploads/2022/12/background-dep-cho-may-tinh-6-724x518.jpg",
+      "id": 13
+    },
+    {
+      "title": "img2",
+      "url": "https://anhcuoiviet.vn/wp-content/uploads/2022/11/background-4k-4-724x518.jpg",
+      "id": 14
+    },
+    {
+      "title": "phong canh",
+      "url": "https://anhcuoiviet.vn/wp-content/uploads/2022/11/hinh-nen-dep-0-724x518.jpg",
+      "id": 15
+    },
+    {
+      "title": "hello",
+      "url": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+      "id": 16
+    }
+  ],
+  "pinterest": [
+    {
+      "id": 0,
+      "src": [],
+      "title": "khong co thong bao",
+      "highligthTitles": [],
+      "time": "",
+      "status": ""
+    },
+    {
+      "id": 1,
+      "src": [
+        "https://i.pinimg.com/290x/6b/38/c8/6b38c81f140dcf324b7283af2c586c98.jpg",
+        "https://i.pinimg.com/290x/9b/75/0e/9b750ee2f79bea8e30a6cab9aa71980f.jpg",
+        "https://i.pinimg.com/290x/2e/39/fd/2e39fda15778738e2c49891ed159c8d8.jpg"
+      ],
+      "title": "Home Decor, Lock screen, Wallpaper and more Pin trending on Pinterest",
+      "highligthTitles": [
+        "Home Decor",
+        "Lock screen",
+        "Wallpaper"
+      ],
+      "time": "12h",
+      "status": "old"
+    },
+    {
+      "id": 2,
+      "src": [
+        "https://i.pinimg.com/290x/97/d8/26/97d826da5d131a1ee93b16f2d647d733.jpg",
+        "https://i.pinimg.com/290x/e6/a0/16/e6a01600771600f4eb5eec30f7fdb38f.jpg",
+        "https://i.pinimg.com/290x/82/cc/55/82cc5532d4ad30ee2a03529b53b1149a.jpg"
+      ],
+      "title": "Pin ispired by you",
+      "highligthTitles": [],
+      "time": "1h",
+      "status": "old"
+    },
+    {
+      "id": 3,
+      "src": [
+        "https://i.pinimg.com/290x/e6/80/b8/e680b8b68f63e5b1908ac193f58bf77a.jpg",
+        "https://i.pinimg.com/290x/72/fa/94/72fa9427b751f42a8ce145024c10c996.jpg",
+        "https://i.pinimg.com/290x/79/c8/9c/79c89c1ff85e762aaf39230d41145619.jpg"
+      ],
+      "title": "Your home feed has new Pin",
+      "highligthTitles": [],
+      "time": "14h",
+      "status": "old"
+    },
+    {
+      "id": 4,
+      "src": [
+        "https://i.pinimg.com/200x150/c7/5e/8a/c75e8aee3b90121048ae46583d51e926.jpg",
+        "https://i.pinimg.com/170x/9e/ce/82/9ece82f3793ba16aa0758f12b9b17eb2.jpg",
+        "https://i.pinimg.com/170x/94/47/31/94473166553f0ab3de1842695067bc8c.jpg",
+        "https://i.pinimg.com/170x/ff/23/42/ff23422529f0c0eb3f4ed83096df065f.jpg",
+        "https://i.pinimg.com/170x/ec/13/b9/ec13b9c18c0497ee2778f94159f985c3.jpg"
+      ],
+      "title": "paper craft 🌼Soft Photos🌼, and 6 other boards picked for you",
+      "highligthTitles": [
+        "paper craft",
+        "Soft Photos",
+        "6"
+      ],
+      "time": "1d",
+      "status": "old"
+    },
+    {
+      "id": 5,
+      "src": [
+        "https://i.pinimg.com/290x/1d/5c/1d/1d5c1d5aa7a9960af5f6141cc16165be.jpg",
+        "https://i.pinimg.com/290x/52/1b/dd/521bdde50c85313c99cd95c7e2e24823.jpg",
+        "https://i.pinimg.com/290x/50/18/da/5018da76be567976fe9239fcfca844eb.jpg"
+      ],
+      "title": "21 Wallpaper Pins you might like ",
+      "highligthTitles": [
+        "21 Wallpaper"
+      ],
+      "time": "2d",
+      "status": "new"
+    },
+    {
+      "id": 6,
+      "src": [
+        "https://i.pinimg.com/290x/e5/78/33/e57833d3c38c09df74c577bf4636eb6b.jpg",
+        "https://i.pinimg.com/290x/6e/9e/a6/6e9ea61570fb4499e61511ee13f57154.jpg",
+        "https://i.pinimg.com/290x/c1/ba/79/c1ba79bcd1a2ce11a571df2cffbbf584.jpg"
+      ],
+      "title": "We think you might like these 14 ideas",
+      "highligthTitles": [
+        "21 Wallpaper"
+      ],
+      "time": "2d",
+      "status": "new"
+    },
+    {
+      "id": 7,
+      "src": [
+        "https://i.pinimg.com/290x/21/a1/9c/21a19c35e5a471efff0febef13599694.jpg",
+        "https://i.pinimg.com/290x/d0/5f/e3/d05fe33a0c66fe0b57f16ea885c70cc3.jpg",
+        "https://i.pinimg.com/290x/74/60/6a/74606a1fbed9cc1465432fedd0607c80.jpg"
+      ],
+      "title": "Pin ispired by you",
+      "highligthTitles": [],
+      "time": "3d",
+      "status": "new"
+    }
+  ],
+  "PinterestAlbum": [
+    {
+      "src": "./assets/img/img1.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/video/video3.mp4",
+      "type": "video"
+    },
+    {
+      "src": "./assets/img/img2.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img3.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img4.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img5.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/video/video2.mp4",
+      "type": "video"
+    },
+    {
+      "src": "./assets/img/img6.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img7.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img8.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img9.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img10.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img11.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img12.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img13.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img14.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img15.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img16.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img17.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img18.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img19.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/img/img20.jpg",
+      "type": "image"
+    },
+    {
+      "src": "./assets/video/video1.mp4",
+      "type": "video"
+    },
+    {
+      "src": "./assets/video/video4.mp4",
+      "type": "video"
+    },
+    {
+      "src": "./assets/video/video5.mp4",
+      "type": "video"
+    }
+  ]
+}
